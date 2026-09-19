@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mubashir.dev/sitemap.xml
